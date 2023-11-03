@@ -500,6 +500,7 @@ drop function function_name;
 
 --------------------------------------------------------------------------------------------------------------
 ============================================(STORE PROCEDURE)=================================================
+Stored procedures promote code reusability, modularity, and maintainability.
 
 Delimiter /
 CREATE PROCEDURE getcategoryinfo()
